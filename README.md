@@ -1,26 +1,13 @@
 
 
-<table>
-  <tr>
-    <td width="300px">
-      <img src="https://avatars.githubusercontent.com/u/111555228?v=4" width="290" ;">
-    </td>
-    <td>
-      <h2>👋 Hello! I'm Movindu.</h2>
-      <p>
 
 🚀 About Me <br>
 
-I am a passionate Front-End Developer with a strong background in <br>
-Java, and C. I have experience in developing enterprise software solutions <br>
-and IoT-based applications. Currently, I am expanding my expertise in <br>
-automation technologies.
+I am a passionate Front-End Developer with a strong background in Java, and C. I have experience in developing enterprise software solutions and IoT-based applications. Currently, I am expanding my expertise in automation technologies.
 
 - 🌍 in Colombo, Sri Lanka
 
-    </td>
-  </tr>
-</table>
+
 
 
 ## 🎓 Education
